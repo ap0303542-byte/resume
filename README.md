@@ -38,4 +38,4 @@
 
 1. इस रिपॉजिटरी को क्लोन करें:
    ```bash
-   git clone [https://github.com/your-username/ashish-resume.git](https://github.com/your-username/ashish-resume.git)
+   git clone [https://ap0303542-byte.github.io/resume/]
